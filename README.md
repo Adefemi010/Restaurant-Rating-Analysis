@@ -1,6 +1,6 @@
 # Restaurant-Rating-Analysis
 
-### Project Overview
+Food App Business
 Embark on a gastronomic expedition as we dissect the multifaceted layers of a prominent Mexican restaurant chain's operations. This project is a deep dive into the rich data tapestry that narrates the story of culinary success and customer satisfaction across various locales in Mexico.
 
 Utilizing cutting-edge data analysis methodologies, I will sift through customer rating, customer demographics, and operational metrics to paint a comprehensive picture of the restaurant chain's performance. Our toolkit includes sophisticated data visualization platforms (Power Bi) and robust statistical frameworks to ensure a thorough and nuanced analysis.
@@ -40,7 +40,7 @@ In the initial preparation phase, I performed the following task
 11. 50% of restaurants does not have parking, while 35% have parking, 12% public parking and 2% vale parking 
 12. 59% of customers move with public Transport, while 25% drive and 14% are on foot
 
-13. ### Recomendations
+ ### Recomendations
 1.	Since a significant majority of customers prefer Mexican cuisine, ensure that restaurants in all four cities offer a variety of Mexican dishes.
 2.	Introduce regional specialties within the Mexican cuisine category to cater to local tastes and preferences.
 3.	Given the preference for medium-priced cuisine, review pricing strategies to ensure that the restaurants are competitively priced and offer value for money.
@@ -51,4 +51,5 @@ In the initial preparation phase, I performed the following task
 8.	With an average customer age of 27.3 years, tailor marketing campaigns and ambiance to appeal to a younger demographic.
 9.	Consider leveraging social media and digital marketing to reach this age group effectively.
 10.	Introduce loyalty programs to encourage repeat visits and reward customers for their patronage.
+
 
