@@ -3,9 +3,9 @@
 ### Project Overview
 Embark on a gastronomic expedition as we dissect the multifaceted layers of a prominent Mexican restaurant chain's operations. This project is a deep dive into the rich data tapestry that narrates the story of culinary success and customer satisfaction across various locales in Mexico.
 
-Utilizing cutting-edge data analysis methodologies, we will sift through sales figures, customer demographics, and operational metrics to paint a comprehensive picture of the restaurant chain's performance. Our toolkit includes sophisticated data visualization platforms (Power Bi) and robust statistical frameworks to ensure a thorough and nuanced analysis.
+Utilizing cutting-edge data analysis methodologies, I will sift through customer rating, customer demographics, and operational metrics to paint a comprehensive picture of the restaurant chain's performance. Our toolkit includes sophisticated data visualization platforms (Power Bi) and robust statistical frameworks to ensure a thorough and nuanced analysis.
 
-The core areas we will explore include:
+The core areas I will explored include:
 
  1. Sales Analysis: Tracking revenue trends and identifying key drivers of sales performance.
  2. Customer Insights: Profiling diner preferences and behaviors to tailor the dining experience.
@@ -15,12 +15,15 @@ The core areas we will explore include:
 My goal is to serve up actionable insights that can spur growth, enhance customer engagement, and streamline operations. I invite you to join me at the table of data-driven decision-making, where each figure tells a tale of flavors, trends, and opportunities within the bustling restaurant chain.
 
 ### Data Cleaning and Preparation
-In the initial preparation phase, we performed the following task
+In the initial preparation phase, I performed the following task
   1. Data loading and inspection
   2. Handling duplicate and missing values
   3. Data cleaning and formatting
 
 ### Analysis and Visualization
+![Restaurant Ratings 1](https://github.com/Adefemi010/Restaurant-Rating-Analysis/assets/149597242/f2bbae1b-2767-4fd2-bc43-41515abf2dd8)
+
+![Restaurant Ratings 2](https://github.com/Adefemi010/Restaurant-Rating-Analysis/assets/149597242/6c8e58f3-1cbe-4684-9e12-33b82d5dc4fe)
 
 
 ### Results and Findings
