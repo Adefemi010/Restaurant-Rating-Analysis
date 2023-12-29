@@ -1,6 +1,5 @@
 # Restaurant-Rating-Analysis
 
-Food App Business
 Embark on a gastronomic expedition as we dissect the multifaceted layers of a prominent Mexican restaurant chain's operations. This project is a deep dive into the rich data tapestry that narrates the story of culinary success and customer satisfaction across various locales in Mexico.
 
 Utilizing cutting-edge data analysis methodologies, I will sift through customer rating, customer demographics, and operational metrics to paint a comprehensive picture of the restaurant chain's performance. Our toolkit includes sophisticated data visualization platforms (Power Bi) and robust statistical frameworks to ensure a thorough and nuanced analysis.
