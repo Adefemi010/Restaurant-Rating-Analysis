@@ -29,8 +29,8 @@ In the initial preparation phase, I performed the following task
 1.  We have 138 customers across 4 Cities in 130 restaurants in Mexico
 2. Average age of Customers is 27.3 yrs
 3. Emilianos, Michiko Restaurant Japones and Restaurant Las Mananitas have an overall average rating of maximum 2. 
-4. 97 of 138 Customers prefers Mexican Cuisine. Mexican accounted for 68.31% of Total number of Customer Cuisine.
-5.  Most customers preferred Medium Priced Cuisine followed by Low then High Prices.
+4. 97 of 138 Customers prefer Mexican Cuisine. Mexican accounted for 68.31% of Total number of Customer Cuisine.
+5. Most customers preferred Medium Priced Cuisine followed by Low then High Prices.
 6. 83% of Restaurant is Franchise owned.
 7. Across all the top 5 restaurant, Average of Overall Rating ranged from 1.80 to 2.00, Average of Food Rating ranged from 1.50 to 2.00, and Average of Service Rating ranged from 1.60 to 2.00.
 8. Total Number of Customers that smokes is 26 while we have 109 non-smokers.
